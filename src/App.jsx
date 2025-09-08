@@ -2,7 +2,6 @@ import Mobile from './components/Mobile'
 function App() {
   return(
    <>
-
    <Mobile
    image="https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/8/y/-original-imahexhjqbbh4zn2.jpeg?q=70"
    name="REDMI Note 14 SE 5G (Mystique White, 128 GB)  (6 GB RAM)"
