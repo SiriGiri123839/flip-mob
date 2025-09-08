@@ -13,14 +13,7 @@ function App() {
    f5="Dimensity 7025 Ultra Processor"
    price="₹14,999"
    old="₹19,999"
-   />
-
-  <Test
-  name="Girija"
-  age="22"
-  gender="Female" 
-   />
-  
+   />  
    </>
   )
 }
